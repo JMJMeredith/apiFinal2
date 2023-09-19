@@ -3,7 +3,7 @@
     "version":"1.0.0.0",
     "manifest_version": 3,
     "description": "Quickly determine exchange rates",
-    "browser_action": {
+    "action": {
         "default_icon": "currency.png",
         "default_popup": "index.html"
     }
