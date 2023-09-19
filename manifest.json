@@ -2,7 +2,7 @@
     "name" : "Exchange Currencies",
     "version":"1.0.0.0",
     "manifest_version": 3,
-    "description": "quickly determine exchange rates",
+    "description": "Quickly determine exchange rates",
     "browser_action": {
         "default_icon": "currency.png",
         "default_popup": "index.html"
